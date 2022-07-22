@@ -1,1 +1,3 @@
-# Calculator-App
+# calculator
+
+My Sample App Calculator
